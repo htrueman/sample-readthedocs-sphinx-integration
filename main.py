@@ -28,6 +28,8 @@ class SampleClass:
     def sample_method2(self) -> str:
         """
         Print self.b.
+        New comment text.
+
         :return: str
         """
 
