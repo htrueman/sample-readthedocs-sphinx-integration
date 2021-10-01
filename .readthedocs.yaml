@@ -10,11 +10,6 @@ sphinx:
   builder: html
   configuration: source/conf.py
 
-submodules:
-  include:
-    - nested_build/1/2/build
-  recursive: true
-
 # Optionally set the version of Python and requirements required to build your docs
 python:
    version: "3.7"
